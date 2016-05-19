@@ -36,8 +36,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/trippfontane'
-datePublished: '2016-05-19T19:50:43.395Z'
-dateModified: '2016-05-19T19:47:34.619Z'
+datePublished: '2016-05-19T19:50:51.306Z'
+dateModified: '2016-05-19T19:50:06.962Z'
 title: ''
 starred: false
 sourcePath: _posts/2016-05-19-the-latest-tweets-from-tripp-fontane-trippfontane-hip-ho.md
