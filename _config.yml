@@ -1,0 +1,14 @@
+layout_spectrum: 0.0052685425616800785
+typography_spectrum: 0.021277931984513998
+color:
+  brandStrength: 0.513121647760272
+  lightness: 0.33046718942932785
+  saturation: 0.3276669189799577
+  rhythmicContrast: 0.6560731430072337
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: trippfontane
