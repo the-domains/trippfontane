@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[trippfontane]]></title>
         <description><![CDATA[trippfontane]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trippfontane/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 13:17:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 13:18:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trippfontane/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple's new short film starring autistic teen shows how tech transforms lives]]></title>
+            <description><![CDATA[<article><h1>Apple's new short film starring autistic teen shows how tech transforms lives</h1><p>Dillan Barmache can't speak, but that doesn't mean he doesn't have anything to say. In fact, Dillan has complex and powerful thoughts, and thanks to easily accessible technology paired with innovative apps, you can hear his perspective. Dillan, who is autistic and nonverbal, is the star of a new short film created by Apple to celebrate Autism Acceptance Day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcbb18dc782937642fc380eca6f61daa54ada19f.jpg"></article>]]></description>
+            <link>http://mashable.com/2016/04/02/apple-autism-dillan/?utm_cid=mash-com-Tw-main-link#e4b_LyEhFaqc</link>
+            <guid isPermaLink="false">da7688b6-2790-440f-8657-279afb1d4145</guid>
+            <pubDate>Thu, 19 May 2016 13:17:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 Gadgets That'll Actually Get You Excited to Work Out]]></title>
             <description><![CDATA[<article><h1>7 Gadgets That'll Actually Get You Excited to Work Out</h1><p>Gadgets and devices that make working out more enjoyable, including games, music players, and muscle trackers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed18c54aed57db2debfacd2f488512d1a298fb17.jpg"></article>]]></description>
