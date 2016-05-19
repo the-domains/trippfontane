@@ -1,7 +1,7 @@
 ---
 description: '<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/259315029&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>'
-dateModified: '2016-05-19T13:57:08.738Z'
-datePublished: '2016-05-19T13:57:08.844Z'
+dateModified: '2016-05-19T13:56:50.556Z'
+datePublished: '2016-05-19T13:57:21.077Z'
 title: 'Tripp, where You Been?'
 author: []
 starred: false
