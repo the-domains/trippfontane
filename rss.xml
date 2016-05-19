@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tripp Fontane]]></title>
+        <description><![CDATA[Tripp Fontane]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 14:55:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tripp Fontane - Diss[connected] by TrippFontane]]></title>
+            <description><![CDATA[<article><h1>Tripp Fontane - Diss[connected] by TrippFontane</h1><p>A message from a concerned fan...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7be569582e5ecd8e7157f070831947d57d1798f0.jpg"></article>]]></description>
+            <link>https://soundcloud.com/trippfontane/tripp-fontane-dissconnected</link>
+            <guid isPermaLink="false">216f7406-cba0-45bb-8a46-5d9a4dc2d535</guid>
+            <pubDate>Thu, 19 May 2016 14:10:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
