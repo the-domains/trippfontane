@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Tripp Fontane]]></title>
         <description><![CDATA[Tripp Fontane]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trippfontane/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 14:55:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 19:50:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trippfontane/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TrippFontane]]></title>
+            <description><![CDATA[<article><h1>TrippFontane</h1><p>Rapper/Poet and producer out of Dayton, OH. One record at a time. For booking and info contact: trippfontane@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68a9c2e14e46c26065cc8bba1597bd68fda1d4a2.jpg"></article>]]></description>
+            <link>https://soundcloud.com/trippfontane</link>
+            <guid isPermaLink="false">bb0192ab-c6a9-4d92-956a-4d4e2661fb23</guid>
+            <pubDate>Thu, 19 May 2016 19:50:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tripp Fontane - Diss[connected] by TrippFontane]]></title>
             <description><![CDATA[<article><h1>Tripp Fontane - Diss[connected] by TrippFontane</h1><p>A message from a concerned fan...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7be569582e5ecd8e7157f070831947d57d1798f0.jpg"></article>]]></description>
